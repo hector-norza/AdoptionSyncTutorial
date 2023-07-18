@@ -4,6 +4,7 @@
 
 Clipchamp is a versatile online video editor that can be integrated with SharePoint, allowing you to create and edit videos directly within your SharePoint environment. This tutorial will guide you through the process of using Clipchamp on SharePoint effectively. Let's get started!
 
+
 ## Step 1
 
 Starting a new [Clipchamp](https://clipchamp.com/en/) project
@@ -49,7 +50,7 @@ Your recording is now on clipchamp,
 If you want to edit the video and cut some parts
 
 - can just drag and drop it into the timeline
-- Once you are done, you click export on the upper right side 
+- Once you are done, you click export on the upper right side
 - You can choose to save to the cloud, and you can change onedrive location
 - You can click on export now,
 - The time for export will depend on the length of the recording
@@ -60,3 +61,6 @@ If you want to edit the video and cut some parts
 - Or save to your computer
 
 That's it! You've successfully learned how to use Clipchamp to record your desktop. Whether you need to create instructional videos, share presentations, or capture demonstrations, Clipchamp offers a convenient and user-friendly solution. Enjoy recording your desktop with Clipchamp!
+
+Quick Walkthrough
+<video src="ClipChamp%20TutorialAdoptionSync.mp4" controls title="Title"></video>
