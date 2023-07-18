@@ -4,7 +4,6 @@
 
 Clipchamp is a versatile online video editor that can be integrated with SharePoint, allowing you to create and edit videos directly within your SharePoint environment. This tutorial will guide you through the process of using Clipchamp on SharePoint effectively. Let's get started!
 
-
 ## Step 1
 
 Starting a new [Clipchamp](https://clipchamp.com/en/) project
@@ -15,7 +14,7 @@ Starting a new [Clipchamp](https://clipchamp.com/en/) project
 - From the drop down choose clipchamp video
 - This will open a new tab and take you to clipchamp
 - Once open, you can change the name for your recording and where to save
-
+![Alt text](gifs/Step1.gif)
 ## Step 2
 
 Record live or use prerecorded video
@@ -23,7 +22,7 @@ Record live or use prerecorded video
 - You can choose to import pre recorded content or start a new recording
 - In this case, we will choose record and create
 - You can choose which camera and microphone to use, in this case we wont record webcam nor voice
-
+![Alt text](gifs/Step2.gif)
 ## Step 3
 
 Sharing screen
@@ -33,17 +32,17 @@ Sharing screen
 - Click share
 - Once the countdown ends, the recording has started,
 - You can minimize Clipchamp now
-
+![Alt text](gifs/step3.gif)
 ## Step 4
 
 You can start working on the demo or presentation you want to record
-
+![Alt text](gifs/Step4.gif)
 ## Step 5
 
 Saving Content
 Once you are done with your demo or you have all the content you need, you can go back to the tab for clipchamp and click on save and edit
 This will stop the recording and save a copy of the video to your downloads, to clipchamp, and to the location on your sharepoint you chose when naming the video
-
+![Alt text](gifs/Step5.gif)
 ## Step 6
 
 Your recording is now on clipchamp,
@@ -59,8 +58,5 @@ If you want to edit the video and cut some parts
 - Share with people at Microsoft
 - Open the location of the recording
 - Or save to your computer
-
+![Alt text](gifs/step6.gif)
 That's it! You've successfully learned how to use Clipchamp to record your desktop. Whether you need to create instructional videos, share presentations, or capture demonstrations, Clipchamp offers a convenient and user-friendly solution. Enjoy recording your desktop with Clipchamp!
-
-Quick Walkthrough
-<video src="ClipChamp%20TutorialAdoptionSync.mp4" controls title="Title"></video>
